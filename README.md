@@ -1,2 +1,2 @@
-# iot
-Exploration of IoT
+
+Personal blog about Internet of Things (IoT)

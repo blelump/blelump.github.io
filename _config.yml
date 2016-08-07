@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+paginate:            5
+title: Personal IoT explorations
+gems: ['jekyll-paginate']
+url: http://iot.blelump.org
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+pages_list:
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
+
+authors:
+  blelump:
+    name: Michal Pietrus
